@@ -111,9 +111,12 @@ pytest
 
 ## Starting Interface
 <img width="1917" height="1018" alt="Screenshot 2026-09-29 000501" src="https://github.com/user-attachments/assets/ef812e48-db9f-4c20-95ee-ef9a02dcaa63" />
+
 ## Analyzing With Default Logs
 <img width="1913" height="1013" alt="Screenshot 2026-09-28 233911" src="https://github.com/user-attachments/assets/9074f93a-da18-4a93-b98f-abdc5dc28e37" />
+
 ## Analyzing The Given Test Logs
 <img width="1915" height="1017" alt="Screenshot 2026-09-29 000326" src="https://github.com/user-attachments/assets/1ce92251-331c-4bf6-a039-32224172a1da" />
+
 ## When The Given Log File Is Not Found
   <img width="1917" height="1020" alt="Screenshot 2026-09-29 000408" src="https://github.com/user-attachments/assets/3d35baec-73f6-4d78-afca-844514cbcfbc" />

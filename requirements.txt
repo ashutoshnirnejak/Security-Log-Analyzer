@@ -1,0 +1,5 @@
+# No external runtime dependencies - the project only uses the
+# Python standard library.
+#
+# Optional, for running tests with pytest instead of unittest:
+pytest>=7.0

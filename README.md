@@ -93,7 +93,7 @@ Or, if you have `pytest` installed:
 pytest
 ```
 
-## Design notes
+## Design Notes
 
 - **Separation of concerns**: reading, parsing, tracking, detecting,
   and reporting are each their own module, so a change to one (e.g.
@@ -106,3 +106,8 @@ pytest
 - **Testability**: functions take plain data in and return plain data
   out wherever possible (e.g. `build_report` returns a string instead
   of printing directly), which is what makes them easy to unit test.
+
+  **Project Screenshots**
+
+  # Starting Interface
+<img width="1917" height="1018" alt="Screenshot 2026-09-29 000501" src="https://github.com/user-attachments/assets/ef812e48-db9f-4c20-95ee-ef9a02dcaa63" />
